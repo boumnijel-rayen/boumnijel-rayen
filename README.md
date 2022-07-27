@@ -2,7 +2,7 @@
 # Hi, I'm Rayen! 👋
 
 ## 🚀 About Me
-I am a computer scientist specializing in information systems, I am football fun, I really like my job, I have a strong ability to adapt and learn quickly. Always curious, I like to succeed in my challenges and take up new challenges.
+I am a computer scientist specializing in information systems, I study at the higher institute of management of tunis, I am football fun, I really like my job, I have a strong ability to adapt and learn quickly. Always curious, I like to succeed in my challenges and take up new challenges.
 
 - 👩‍💻 I'm a full stack developer
 - 👀 I’m interested in web development
